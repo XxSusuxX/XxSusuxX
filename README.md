@@ -14,13 +14,13 @@
 Olá! Eu sou o **Gabriel Suenaga**, desenvolvedor front-end com foco em entregar experiências únicas, intuitivas e modernas na web.  
 Me formei no curso técnico de **Desenvolvimento de Sistemas** e também finalizei um curso profissionalizante de **Engenharia Front-End**.  
 
-Já desenvolvi **mais de 16 projetos**, entre eles sites como **Jornal Aborda**, **Restaurante Luffy** e **Disney**.  
+Já desenvolvi **mais de 20 projetos**, entre eles sites como **Jornal Aborda**, **Restaurante Luffy** e **Disney**.  
 Sou determinado, autodidata e estou sempre em busca de novos desafios para evoluir na área tech. 🚀
 
 Atualmente, também atuo em trabalhos voluntários e freelancers com WordPress, desenvolvendo layouts personalizados e funcionais.
 
 <div align="center">
-  <a href="https://gabrielsuenaga.dev/" target="_blank">
+  <a href="https://gabrielsuenaga.com.br/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfólio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
   </a>
   <a href="mailto:gabrielsuenaga.dev@gmail.com">
@@ -38,7 +38,7 @@ Atualmente, também atuo em trabalhos voluntários e freelancers com WordPress, 
 
 ## 🚀 Tecnologias que domino
 
-- **Linguagens:** JavaScript, TypeScript, PHP  
+- **Linguagens:** JavaScript, Python, TypeScript, PHP  
 - **Frameworks:** React, React Native, Next.js, Vue.js  
 - **Estilização:** Tailwind CSS, Bootstrap, Sass, Framer Motion  
 - **Ferramentas:** WordPress, Git/GitHub, ESLint, Vite, Gulp, Grunt
@@ -46,8 +46,8 @@ Atualmente, também atuo em trabalhos voluntários e freelancers com WordPress, 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSuenaga&layout=compact&langs_count=10&theme=tokyonight" alt="Linguagens mais usadas" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielSuenaga&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxSusuxX&layout=compact&langs_count=10&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxSusuxX&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 ---
